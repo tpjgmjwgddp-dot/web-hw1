@@ -1,9 +1,9 @@
 # web-hw1
 # 실습과제 #1 : 영화 보드 완성판
-- 이름 / 학번 :
-- 사이트 주소 : https://아이디.github.io/web-hw1/
+- 이름 / 학번 :손진호/2651033
+- 사이트 주소 : https://tpjgmjwgddp-dot.github.io/web-hw1/
 - 사용한 API 1 : TMDB (포스터, 영화 정보)
-- 사용한 API 2 : KOBIS 일별 박스오피스 (기준일 YYYY-MM-DD)
+- 사용한 API 2 : KOBIS 일별 박스오피스 (기준일 2026-10-24)
 ## 구현 항목 체크
 - [ ] (요구사항 1~12의 번호와 제목을 그대로 옮겨 적고 체크)
 - [1] CSS 변수.✔
